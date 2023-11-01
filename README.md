@@ -2,6 +2,8 @@
 > A GPS based asset tracking application for live monitoring your assets 24x7
 
 ## Table of contents
+* [Demo](#demo)
+
 * [General info](#general-info)
 
 * [Screenshots](#screenshots)
@@ -14,9 +16,9 @@
 
 * [Features](#features)
 
-* [API Documentation](#API-Documentation)
+## Demo
 
-* [Demo](#demo)
+- Video Demo https://tinyurl.com/anugrah-cwod
 
 ## Tech Stack
 
@@ -85,15 +87,3 @@ List of features implemented and listed for further enhancements...
 * **Configurable Auto-Refresh Timer for periodic refreshment of current view**
 
 * **Tabular View to show all assets present in database**
-
-## API Documentation
-
-https://jumbogps-main.anugrahsinghal.repl.co/swagger-ui.html
-
-## Demo
-
-https://jumbogps.netlify.app/login.html
-
-- Use username - `anu` and password - `string` to test out the deployed site
-
-- Video Demo https://tinyurl.com/anugrah-cwod
